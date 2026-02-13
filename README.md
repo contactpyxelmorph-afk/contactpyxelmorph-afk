@@ -10,4 +10,4 @@
 | **Pyxel-Palette** | ![Pyxel-Palette](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Palette/total?label=Downloads&color=success) |
 
 ---
-**Total Combined Account Downloads:** ![Total Downloads](https://img.shields.io/github/downloads/contactpyxelmorph-afk/total?label=Total%20Downloads&color=blue&style=for-the-badge)
+**Total Account Downloads:** ![Total](https://img.shields.io/github/downloads/contactpyxelmorph-afk/total?label=Total%20Downloads&color=blue)
