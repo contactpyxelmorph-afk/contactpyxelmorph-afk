@@ -8,6 +8,3 @@
 | **Pyxel-Clear** | ![Pyxel-Clear](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Clear/total?label=Downloads&color=success) |
 | **Pyxel-Morph** | ![Pyxel-Morph](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Morph/total?label=Downloads&color=success) |
 | **Pyxel-Palette** | ![Pyxel-Palette](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Palette/total?label=Downloads&color=success) |
-
----
-**Total Account Downloads:** ![Total](https://img.shields.io/github/downloads/contactpyxelmorph-afk/total?label=Total%20Downloads&color=blue)
