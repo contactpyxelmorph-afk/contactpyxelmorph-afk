@@ -9,3 +9,4 @@
 | **Pyxel-Morph** | ![Pyxel-Morph](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Morph/total?label=Downloads&color=success) |
 | **Pyxel-Palette** | ![Pyxel-Palette](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Palette/total?label=Downloads&color=success) |
 | **Pyxel-Text** | ![Pyxel-Text](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Text/total?label=Downloads&color=success&cacheSeconds=3600) |
+![Views](https://visitor-badge.laobi.icu/badge?page_id=contactpyxelmorph-afk.alpha-fixer)
