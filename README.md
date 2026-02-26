@@ -12,4 +12,3 @@
 | **Alpha-Fixer** | Web App | [![Views](https://visitor-badge.laobi.icu/badge?page_id=contactpyxelmorph-afk.alpha-fixer&label=Site%20Visits&color=blue)](https://contactpyxelmorph-afk.github.io/alpha-fixer/) |
 
 ---
-[📊 View Full Real-Time Download Dashboard](https://tooomm.github.io/github-release-stats/?user=contactpyxelmorph-afk)
