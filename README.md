@@ -1,5 +1,4 @@
 ### 📊 Global Project Tracker
-
 | Project Name | Type | Live Activity / Downloads |
 | :--- | :--- | :--- |
 | **Pyxel-Matrix** | Software | ![Pyxel-Matrix](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Matrix/total?label=Downloads&color=success&cacheSeconds=3600) |
@@ -9,8 +8,5 @@
 | **Pyxel-Morph** | Software | ![Pyxel-Morph](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Morph/total?label=Downloads&color=success&cacheSeconds=3600) |
 | **Pyxel-Palette** | Software | ![Pyxel-Palette](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Palette/total?label=Downloads&color=success&cacheSeconds=3600) |
 | **Pyxel-Text** | Software | ![Pyxel-Text](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Text/total?label=Downloads&color=success&cacheSeconds=3600) |
-| **Alpha-Fixer** | Web App | [![Live Site](https://img.shields.io/badge/Site-Live-brightgreen)](https://contactpyxelmorph-afk.github.io/alpha-fixer/) |
-| **Meet-the-Sensei** | Web Page | [![Live Site](https://img.shields.io/badge/Site-Live-brightgreen)](https://contactpyxelmorph-afk.github.io/Meet-the-Sensei/) |
-
----
-
+| **Alpha-Fixer** | Web App | [![Views](https://visitor-badge.laobi.icu/badge?page_id=contactpyxelmorph-afk.alpha-fixer&label=Site%20Visits&color=blue)](https://contactpyxelmorph-afk.github.io/alpha-fixer/) |
+| **Meet-the-Sensei** | Web Page | [![Views](https://visitor-badge.laobi.icu/badge?page_id=contactpyxelmorph-afk.meet-the-sensei&label=Site%20Visits&color=blue)](https://contactpyxelmorph-afk.github.io/Meet-the-Sensei/) |
