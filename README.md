@@ -8,5 +8,5 @@
 | **Pyxel-Morph** | Software | ![Pyxel-Morph](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Morph/total?label=Downloads&color=success&cacheSeconds=3600) |
 | **Pyxel-Palette** | Software | ![Pyxel-Palette](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Palette/total?label=Downloads&color=success&cacheSeconds=3600) |
 | **Pyxel-Text** | Software | ![Pyxel-Text](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Text/total?label=Downloads&color=success&cacheSeconds=3600) |
-| **Alpha-Fixer** | Web App | [![Visits](https://stats.mojoauth.com/public/badge/alphafixer?label=Site%20Visits&color=4c8eda&style=flat)](https://contactpyxelmorph-afk.github.io/alpha-fixer/) |
-| **Meet-the-Sensei** | Web Page | [![Visits](https://stats.mojoauth.com/public/badge/sensei?label=Site%20Visits&color=4c8eda&style=flat)](https://contactpyxelmorph-afk.github.io/Meet-the-Sensei/) |
+| **Alpha-Fixer** | Web App | [![Visits](https://img.shields.io/badge/dynamic/json?query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fpyxelmorph-afk%2Falphafixer&label=Site%20Visits&color=4c8eda)](https://contactpyxelmorph-afk.github.io/alpha-fixer/) |
+| **Meet-the-Sensei** | Web Page | [![Visits](https://img.shields.io/badge/dynamic/json?query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fpyxelmorph-afk%2Fsensei&label=Site%20Visits&color=4c8eda)](https://contactpyxelmorph-afk.github.io/Meet-the-Sensei/) |
