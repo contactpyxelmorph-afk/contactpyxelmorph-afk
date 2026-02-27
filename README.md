@@ -13,4 +13,4 @@
 | **Meet-the-Sensei** | Web Page | [![Views](https://visitor-badge.laobi.icu/badge?page_id=contactpyxelmorph-afk.meet-the-sensei&label=Site%20Visits&color=blue)](https://contactpyxelmorph-afk.github.io/Meet-the-Sensei/) |
 
 ---
-[📊 View Full Real-Time Download Dashboard](https://tooomm.github.io/github-release-stats/?user=contactpyxelmorph-afk)
+
