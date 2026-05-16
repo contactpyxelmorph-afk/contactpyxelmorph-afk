@@ -11,3 +11,6 @@
 | **Pyxel-Text** | Software | ![Pyxel-Text](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Text/total?label=Downloads&color=success&cacheSeconds=3600) |
 | **Pyxel-Suite** | Software | ![Pyxel-Suite](https://img.shields.io/github/downloads/contactpyxelmorph-afk/Pyxel-Suite/total?label=Downloads&color=success&cacheSeconds=3600) |
 | **fence-faller** | Software | ![fence-faller](https://img.shields.io/github/downloads/contactpyxelmorph-afk/fence-faller/total?label=Downloads&color=success&cacheSeconds=3600) |
+
+
+NOTE: all apps in contactpyxelmorph repositories are vibe-coded
